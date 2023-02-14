@@ -2,6 +2,6 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("Testing Jenkin");
+System.out.println("Testing Jenkin for SDET Training");
 }
 }
